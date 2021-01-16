@@ -13,29 +13,36 @@ Además la página web cuenta con login en modo administrador, el cual podrá ac
 <h3>Su uso es muy sencillo: Cuenta con un Home el cual nos invita a ver todos los productos haciendo click en "Ver más" o a buscar directamente con la lupa el producto deseado. Se presentan en forma de "Carousel" algunas de las latas más vistozas, y la página es scrolleable.
 En cualquiera de las secciones podremos clickear el logo para volver al inicio </h3>
 </br>
-<img src= "https://raw.githubusercontent.com/JairoPonti/AppCitas/main/src/screenShots/Image1.png"/>
+<img src= "https://raw.githubusercontent.com/JairoPonti/HenryBeers/main/client/src/Screenshots/Home1.PNG"/>
 </br>
 </br>
 
 <h3>Más abajo podemos ver las cervezas clasificadas por categorías:</h3>
 </br>
-<img src= "https://raw.githubusercontent.com/JairoPonti/AppCitas/main/src/screenShots/Image2.png"/>
+<img src= "https://raw.githubusercontent.com/JairoPonti/HenryBeers/main/client/src/Screenshots/Home2.PNG"/>
 </br>
 </br>
 
 <h3>O directamente a todos los productos:</h3>
 </br>
-<img src= "https://raw.githubusercontent.com/JairoPonti/AppCitas/main/src/screenShots/Image3.png"/>
+<img src= "https://raw.githubusercontent.com/JairoPonti/HenryBeers/main/client/src/Screenshots/ProductCards.PNG"/>
 </br>
 </br>
+
+<h3>Podremos dejar reseñas y calificar con estrellas (siempre y cuando estemos logueados)</h3>
+</br>
+<img src= "https://raw.githubusercontent.com/JairoPonti/HenryBeers/main/client/src/Screenshots/Reseñas.PNG"/>
+</br>
+</br>
+
 
 <h3>Al pie de página nos encontramos con el clásico Footer con características y datos del comercio.</h3>
 </br>
-<img src= "https://raw.githubusercontent.com/JairoPonti/AppCitas/main/src/screenShots/Image4.png"/>
+<img src= "https://raw.githubusercontent.com/JairoPonti/HenryBeers/main/client/src/Screenshots/Footer.PNG"/>
 
 </br>
 </br>
-<strong>En este proyecto se trabajó con Hooks y Local Storage. Se realizó la documentación con PropTypes</strong>
+<strong>En este proyecto se trabajó con React, Redux, Postgres, Sequelize, Node.js, Express, Html, Css, JWT y mailgun.</strong>
 
-Podrás correrlo de forma local también, para hacerlo:
-En la ubicación '/AppCitas' deberás realizar un 'npm install' primero y luego 'npm start'. Verás la aplicación en tu localhost 
+Podrás correrlo de forma local, para hacerlo:
+Tanto en la ubicación '/api' como en '/client' deberás realizar un 'npm install' primero y luego 'npm start'. Verás la aplicación en tu localhost 
