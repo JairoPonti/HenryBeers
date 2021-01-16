@@ -1,0 +1,19 @@
+.divadmin {
+  display: flex;
+  margin-top: 12px;
+  border-color: black;
+  border-radius: 13px;
+  background-color: white;
+  width: 15%;
+  align-items: center;
+  justify-content:center;
+  list-style: none;
+  flex-direction:column;
+  
+}
+.h1adm{
+    font-size:25px;
+}
+.h2adm{
+    font-size:20px;
+}

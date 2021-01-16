@@ -1,0 +1,11 @@
+
+.btn1{
+    display:flex;
+    justify-content: flex-end;
+    border: 0px;
+    width: 25px;
+    height: 25px;
+    margin: 0 5px 0 auto;
+    align-items: center;
+    border: 0px;
+}

@@ -1,0 +1,45 @@
+/* body{
+    background-color:#F76161;
+    overflow:hidden;
+  }
+  body, html {
+      height: 100%;
+      width: 100%;
+      margin: 0;
+      padding: 0;
+  }
+  
+  .containered{
+    width:600px;
+    height:600px;
+  }
+  
+  .track{
+      
+      position:absolute;
+      top:50%;
+      left:50%;
+      width:400px;
+      height:30px;
+      border:1px solid #888888;
+      border-radius:18px;
+  }
+  
+  .drag{
+      
+      position:absolute;
+      top:0%;
+    transform: translate(-50%, -50%);
+      left:0;
+      width:40px;
+      height:40px;
+      background-color:#ededed;
+      border-radius:50%;
+  }
+  
+  .flame{
+    position:absolute;
+    left:30%;
+    top:30%;
+  }
+   */

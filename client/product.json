@@ -1,0 +1,133 @@
+{ "name": "Waikiki Summer Ale",
+  "description": "Waikiki Summer Ale",
+      "price": "50",
+  "stock": 10,
+      "image": "https://brewhousemdp.com/wp-content/uploads/2020/08/brew-house-waikikisummerale.png",
+      "categories": [3]
+    },
+    {
+      "name": "MAR DEL PLATA ",
+  "description":"BOHEMIAN PILSENER",
+      "price": "50",
+  "stock": 10,
+      "image": "https://brewhousemdp.com/wp-content/uploads/2020/08/brew-house-mardelplata-bohemian-pilsener.png",
+      "categories": [3]
+    },
+    {
+      "name": "Willy DéPOÓ ",
+  "description":"Doble Honey",
+      "price": "50",
+  "stock": 10,
+      "image": "https://brewhousemdp.com/wp-content/uploads/2020/08/brew-house-willydepoo.png",
+      "categories": [3]
+    },
+    {
+      "name": "LOBOS DEL MAR",
+  "description":" American Amber Ale",
+      "price": "50",
+  "stock": 10,
+      "image": "https://brewhousemdp.com/wp-content/uploads/2020/08/brew-house-lobosdelmar.png",
+      "categories": [3]
+    },
+    {
+      "name": "Pomelo Wheat",
+  "description":"Pomelo Wheat",
+      "price": "50",
+  "stock": 10,
+      "image": "https://brewhousemdp.com/wp-content/uploads/2020/08/brew-house-pomelo-wheat.png",
+      "categories": [3]
+    },
+    {
+      "name": "Lima Wheat",
+  "description":"Lima Wheat",
+      "price": "50",
+  "stock": 10,
+      "image": "https://brewhousemdp.com/wp-content/uploads/2020/08/brew-house-lima-wheat.png",
+      "categories": [3]
+    },
+    {
+      "name": "Monsieur Chocolat ",
+  "description":"F. Extra Stout Barrel Aged",
+      "price": "50",
+  "stock": 10,
+      "image": "https://brewhousemdp.com/wp-content/uploads/2020/08/brew-house-monsieur.png",
+      "categories": [4]
+    },
+    {
+      "name": "CHOCÓ EL BANANA  ",
+  "description":" F. EXTRA STOUT Barrel Aged",
+      "price": "50",
+  "stock": 10,
+      "image": "https://brewhousemdp.com/wp-content/uploads/2020/08/brew-house-choco-el-banana.png",
+      "categories": [4]
+    },
+    {
+      "name": "CITRA SESSION IPA",
+  "description":"IPA",
+      "price": "50",
+  "stock": 10,
+      "image": "https://brewhousemdp.com/wp-content/uploads/2020/08/brew-house-citra-session-ipa.png",
+      "categories": [5]
+    },
+    {
+      "name": "SATIVA SESSION IPA",
+  "description":"SATIVA SESSION IPA",
+      "price": "50",
+  "stock": 10,
+      "image": "https://brewhousemdp.com/wp-content/uploads/2020/08/brew-house-sativasessionipa.png",
+      "categories": [5]
+    },
+    {
+      "name": "JOKER IPA",
+  "description": "IPA",
+      "price": "50",
+  "stock": 10,
+      "image": "https://brewhousemdp.com/wp-content/uploads/2020/08/brew-house-sativasessionipa.png",
+      "categories": [5]
+    },
+    {
+      "name": "V8 IPA",
+  "description":"IPA",
+      "price": "50",
+  "stock": 10,
+      "image": "https://brewhousemdp.com/wp-content/uploads/2020/08/brew-house-v8ipa.png",
+      "categories": [5]
+    }
+  
+  
+  
+  
+  ------------------------------------------------------------
+  categories:
+  {
+      "name": "Amber",
+  "description":"amber",
+   "image":"https://media.gq.com.mx/photos/5ced79a1d09b9a679516914c/16:9/w_1920,c_limit/beer.jpg"
+        }
+   
+   {
+      "name": "Negra",
+  "description":"negra",
+   "image":"https://i.ytimg.com/vi/80wrKgf6hCA/maxresdefault.jpg"
+   }
+   
+    {
+      "name": "IPA",
+  "description":"ipa",
+    "image":"https://media.revistagq.com/photos/5cfe649780673243db778c90/16:9/w_1920,c_limit/cerveza-1041019266.jpg"
+   }
+   {
+      "name": "Featured",
+  "description":"Featured",
+   "image":"https://saintpaul.s3.amazonaws.com/CMS/4757/website-featured7-banner__mobile.jpg"
+     }
+  {
+      "name": "Recent",
+  "description":"recent",
+   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJ1cC2B9XY0K6HB1CSPQVtyKn9lG_lTBWxdQ&usqp=CAU"
+     }
+  {
+      "name": "Clasic",
+  "description":"clasic",
+   "image":"https://images.crateandbarrel.com/is/image/Crate/BrugesBeer16ozSHS16"
+     }

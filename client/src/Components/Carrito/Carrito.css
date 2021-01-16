@@ -1,0 +1,19 @@
+.titnocarrito{
+    display: flex;
+    margin-left: 30%
+}
+
+.divcarritovacio{
+    display:flex;
+    padding-top: 60px;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px 0 0 100px;
+}
+
+.imgCarrito{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-bottom: 25px;
+}
